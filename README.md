@@ -6,7 +6,7 @@ Hi 👋, I'm Adrian
 ### :man_technologist: About Me :
 - 💻 Java Developer looking for internship
  
-- 👨‍🎓 Wyższa Szkoła Zarządzania i Bankowości w krakowie - 3rd year of studies in the field of computer science with a specialization in object-oriented programming
+- 👨‍🎓 Wyższa Szkoła Zarządzania i Bankowości w Krakowie - 3rd year of studies in the field of computer science with a specialization in object-oriented programming
 
 - 🌱 I’m currently learning docker, testing, spring security, spring data MongoDB
 ##
