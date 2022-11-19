@@ -12,6 +12,8 @@ Hi 👋, I'm Adrian
 ##
 - 🔭 All of my projects are available at https://github.com/Polaker?tab=repositories
 
+- 📋 Check out my LinkedIn https://www.linkedin.com/in/adrian-waleryn/
+
 - 📫 You can text me adrianwaleryn@gmail.com
 
 ---
