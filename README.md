@@ -10,7 +10,7 @@ Hi 👋, I'm Adrian
 
 - 🌱 I’m currently learning docker, testing, spring security, spring data MongoDB
 ##
-- 🔭 All of my projects are available at https://github.com/Polaker?tab=repositories
+- 🔭 All of my projects are available at https://github.com/awaleryn?tab=repositories
 
 - 📋 Check out my LinkedIn https://www.linkedin.com/in/adrian-waleryn/
 
