@@ -4,11 +4,11 @@
 
 Hi 👋, I'm Adrian
 ### :man_technologist: About Me :
-- 💻 Intern Java Developer
+- 💻 Junior Java Developer
  
 - 👨‍🎓 Wyższa Szkoła Zarządzania i Bankowości w Krakowie - 3rd year of studies in the field of computer science with a specialization in object-oriented programming
 
-- 🌱 I’m currently learning Mockito and working on high-level projects during internship
+- 🌱 I’m currently working on high-level projects during job
 ##
 - 🔭 All of my projects are available at https://github.com/awaleryn?tab=repositories
 
