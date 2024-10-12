@@ -30,6 +30,7 @@ Hi 👋, I'm Adrian
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache POI" **alt="Apache POI" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
